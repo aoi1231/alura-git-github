@@ -1,0 +1,65 @@
+[33mcommit 0deb9f36480b2e9675eb830c823ceac477dd6f8d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sat Nov 21 16:33:19 2026 -0300
+
+    Adicionando index.html
+
+[33mcommit 84a337aab3662e8abd0d8df76ef88835c3111c0b[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sat Nov 21 16:26:49 2026 -0300
+
+    Criando o arquivo teste.js com console.log
+    
+    aqui eu fiz um teste de commit
+
+[33mcommit 225fc510bc07f43d964a7f7e102e60bcb247dd75[m
+Merge: f493fce 8b5e37b
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 20:21:05 2026 -0300
+
+    Merge branch 'main' of https://github.com/aoi1231/git-github-alura
+
+[33mcommit f493fce7c89323f9ee3521e6ae3dabf6c3032b29[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 20:20:56 2026 -0300
+
+    gitignore Test
+
+[33mcommit 8b5e37bedf47cdbb07bc921bdcbd7fcd01cdf011[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 20:09:48 2026 -0300
+
+    Create README.md
+
+[33mcommit dc0e356c71cb20baecb48ba17ff75dae8584d6f7[m
+Merge: adb7517 5060b1c
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 19:22:50 2026 -0300
+
+    Merge branch 'main' of https://github.com/aoi1231/git-github-alura
+
+[33mcommit adb751707134b504a23df95e3167fa1892f4ceda[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 19:10:21 2026 -0300
+
+    Revert commit
+
+[33mcommit 5060b1c1ddac60b7c0a5c3e9eb95f59e44998944[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 19:10:21 2026 -0300
+
+    Revert "teste_1_bugado"
+    
+    This reverts commit 5aef2b2f9f2fac0122bf1e54badce7ac94e36c6d.
+
+[33mcommit 5aef2b2f9f2fac0122bf1e54badce7ac94e36c6d[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 18:12:59 2026 -0300
+
+    teste_1_bugado
+
+[33mcommit a59277c5869c9357d0b1a99207afb1bd2aa114d9[m
+Author: aoi1231 <tirinhasdoaoi@gmail.com>
+Date:   Sun Mar 22 17:35:34 2026 -0300
+
+    first commit
